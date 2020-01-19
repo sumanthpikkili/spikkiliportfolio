@@ -1,0 +1,25 @@
+.home {
+  text-align: center;
+  margin-top: 250px;
+}
+
+.header {
+margin-top: -250px;
+text-align: left;
+margin-left: 10px;
+font-size: 75px;
+font-family: Apple Chancery, cursive;
+}
+
+.topFadingLine{
+    display:block;
+    margin-top: 25px;
+    border:none;
+    color:white;
+    height:1px;
+    background: -webkit-gradient(radial, 100% 50%, 0, -100% 100%, 15, from(#fff), to(#000));
+  }
+
+.socialMediaContainer {
+    text-align: left;
+}
