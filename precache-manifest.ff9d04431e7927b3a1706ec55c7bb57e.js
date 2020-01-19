@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c768231e1313ca124a1077294b214af3",
+    "revision": "961c206510060f582bc0f6e098b0512a",
     "url": "/spikkiliportfolio/index.html"
   },
   {
-    "revision": "468277fe900557e58278",
+    "revision": "374414c58f5550a854ee",
     "url": "/spikkiliportfolio/static/css/main.4f5d8cdb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spikkiliportfolio/static/js/2.b60288be.chunk.js.LICENSE"
   },
   {
-    "revision": "468277fe900557e58278",
-    "url": "/spikkiliportfolio/static/js/main.28940834.chunk.js"
+    "revision": "374414c58f5550a854ee",
+    "url": "/spikkiliportfolio/static/js/main.b855f655.chunk.js"
   },
   {
     "revision": "5eb49f8d65a821d0ecc5",
