@@ -44,7 +44,7 @@ export default class Contact extends Component {
 
   sendFeedback(templateId, senderEmail, receiverEmail, feedback, user) {
     window.emailjs
-      .send('gmail', templateId, {
+      .send('mail_google', templateId, {
           senderEmail,
           receiverEmail,
           feedback
